@@ -1,6 +1,2 @@
-TicksToDateTime
-===============
+https://real420og.github.io/tickstodatetime/
 
-Two electrons walk into a bar. 
-
-https://tickstodatetime.azurewebsites.net
